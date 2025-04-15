@@ -9,7 +9,7 @@ const Main: React.FC = () => {
 
   return (
     <>
-      <div>Hello thats Main!</div>
+      <div>Сидим вдвоем с димасом я и он</div>
       <h1>value = {count}</h1>
       <button onClick={increment}>+</button>
       <button onClick={decrement}>-</button>
